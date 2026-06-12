@@ -1,0 +1,3 @@
+[submodule "hdl/core"]
+	path = hdl/core
+	url = git@github.com:yaia8106-sketch/JYD2026.git
