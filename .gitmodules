@@ -1,3 +1,3 @@
-[submodule "hdl/core"]
-	path = hdl/core
+[submodule "hdl/ip/jyd2026"]
+	path = hdl/ip/jyd2026
 	url = git@github.com:yaia8106-sketch/JYD2026.git

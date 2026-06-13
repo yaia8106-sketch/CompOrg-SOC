@@ -1,0 +1,22 @@
+# Simulation artifacts
+sim/work/
+sim/compile_log/
+sim/*.log
+sim/*.vcd
+sim/*.vpd
+sim/*.fsdb
+sim/novas.*
+
+# Vivado work files
+*.jou
+*.log
+*.str
+.jou/
+.log/
+vivado_work/
+
+# Editor / OS
+*.swp
+*.swo
+*~
+.DS_Store
